@@ -1,0 +1,21 @@
+
+.rem-mine {
+	margin-top: 50rpx;
+	margin-bottom: 50rpx;
+	text-align: center;
+}
+.rem-avatar image {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 100%;
+	border: 2rpx solid #ccc;
+}
+.rem-container {
+	margin-top: 50rpx;
+}
+.rem-add {
+	/* width: 100rpx; */
+	/* padding-bottom: 20rpx; */
+	/* border-bottom: thick dotted  #555555; */
+}
+

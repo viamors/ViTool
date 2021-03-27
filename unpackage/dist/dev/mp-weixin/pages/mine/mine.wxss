@@ -1,0 +1,30 @@
+
+.rem-mine {
+	margin-top: 50rpx;
+	text-align: center;
+}
+.rem-avatar image {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 100%;
+	border: 2rpx solid #ccc;
+}
+.rem-user-list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-top: 30rpx;
+}
+.rem-user-list .rem-user-list-item {
+	width: 500rpx;
+	height: 92rpx;
+	border-radius: 30rpx;
+	margin-top: 20rpx;
+	margin-left: 150rpx;
+	text-align: center;
+}
+

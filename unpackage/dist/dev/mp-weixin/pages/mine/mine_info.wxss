@@ -1,0 +1,36 @@
+
+.submit-btn {
+	margin-left: 30rpx;
+	margin-right: 30rpx;
+}
+.rem-user-avatar {
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+}
+.rem-user-avatar .rem-user-avatar-img {
+	margin-right: -460rpx;
+}
+.rem-user-item {
+	border-top: 0rpx !important;
+	padding-right: 40rpx !important;
+}
+.rem-user-item input {
+	text-align: right;
+	/* padding-right: 40rpx; */
+}
+.rem-user-btn {
+	margin-top: 200rpx;
+}
+.rem-input-icon {
+	font-size: 34rpx;
+	color: #8799a3;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	margin-left: 10rpx;
+	margin-right: -6rpx;
+}
+input {
+	height: 44.8rpx;
+}
+

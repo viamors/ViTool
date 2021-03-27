@@ -1,0 +1,45 @@
+
+.rem-down {
+	text-align: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-left: 40rpx;
+	margin-right: 40rpx;
+	color: #323233;
+	font-size: 28rpx;
+	margin-top: 50rpx;
+}
+.rem-item {
+	min-height: 90rpx;
+	width: 670rpx;
+	background-color: #FFFFFF;
+	box-shadow: 0 44rpx 120rpx 0 rgba(0, 0, 0, .09);
+	border: 1rpx solid rgba(0, 0, 0, .1);
+	border-radius: 8rpx;
+	margin-bottom: 50rpx;
+}
+.rem-item-title {
+	margin-bottom: 10rpx;
+	text-align: left;
+}
+.rem-item-detail {
+	width: 600rpx;
+	text-align: left;
+	font-size: 32rpx;
+}
+.rem-date {
+	width: 200rpx;
+}
+.rem-item-textarea {
+	width: 600rpx;
+}
+.rem-item-btn {
+	text-align: center;
+	margin-bottom: 20rpx;
+}
+

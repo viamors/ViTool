@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/date/date",
+    "pages/mine/mine",
+    "pages/dateInfo/dateInfo",
+    "pages/setDate/setDate",
+    "pages/mine/mine_info"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "ViTool",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#7a7e83",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/date.png",
+        "selectedIconPath": "static/img/dateHL.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/img/mine.png",
+        "selectedIconPath": "static/img/mineHL.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap25.json"
+}
